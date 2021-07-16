@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/opt/ros/kinetic/include/**",
+        "/home/felix/myros_ws/src/ros_class_sample/node_class_sample/include/**",
+        "/home/felix/myros_ws/src/ros_basic_sample/node_sample/include/**",
+        "/home/felix/myros_ws/src/ros_basic_sample/publisher_sample/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
